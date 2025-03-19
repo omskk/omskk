@@ -3,20 +3,14 @@
 🤖 **欢迎来到我的 GitHub 仓库！** 🚀
 
 
-🚀 这里有好玩的项目
-
-
 🐟️ 我是一位热爱技术和解决问题的咸鱼。我的开源项目诞生于日常生活中遇到的各种小难题和需求。
-
 
 
 🎉 感谢你的到访，希望你在这里能找到你需要的东西！
 
+💡 今日份金句：  
+'拖延症是给完美主义者的勋章'  
 
-
-  
-
-</details> 
 
 [![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-11)
 [![](https://img.shields.io/badge/Linux-Ubuntu-2376bc?style=flat-square&logo=ubuntu&logoColor=ffffff)](https://ubuntu.com/)
