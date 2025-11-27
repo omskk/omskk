@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=omskk&show_icons=false&theme=tokyonight" alt="logo" align="right" width="50%" />
+<img src="https://readme-stats-dev.vercel.app/api?username=omskk&show_icons=true&theme=transparent" alt="logo" align="right" width="50%" />
 
 🤖 **欢迎来到我的 GitHub 仓库！** 🚀
 
